@@ -20,7 +20,7 @@ export const photos = [
         dateTaken: "10-13-2022"
     },
     {
-        url: "https://pbs.twimg.com/media/FqBfKjOWIAEL5Rd?format=jpg&name=large",
+        url: "https://pbs.twimg.com/media/FqBncneWcAEnmwV?format=jpg&name=small",
         desc: "Lamborghini performante spider in the city",
         dateTaken: "08-14-2022"
     },
@@ -28,5 +28,6 @@ export const photos = [
         url: "https://pbs.twimg.com/media/FqBoAiJXsAEFm87?format=jpg&name=small",
         desc: "First time trying A5 wagyu beef",
         dateTaken: "08-14-2022"
-    }
+    },
+
 ]
