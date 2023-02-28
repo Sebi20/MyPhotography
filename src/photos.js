@@ -30,4 +30,28 @@ export const photos = [
         dateTaken: "08-14-2022"
     },
 
+    {
+        url: "https://pbs.twimg.com/media/FqDtSO6WAAUVoc5?format=jpg&name=small",
+        desc: "YS Falls, Jamaica",
+        dateTaken: "01-14-2023"
+    },
+
+    {
+        url: "https://pbs.twimg.com/media/FqDuRvzWIAA-BkW?format=jpg&name=small",
+        desc: "Bun Dung Hotel, Jamaica",
+        dateTaken: "01-13-2023"
+    },
+
+    {
+        url: "https://pbs.twimg.com/media/FqDvRNaWIAUbqlc?format=jpg&name=small",
+        desc: "Stunning New Years sunset over Brooklyn",
+        dateTaken: "01-01-2023"
+    },
+
+    {
+        url: "https://pbs.twimg.com/media/FqDxkrvXgAElH9S?format=jpg&name=small",
+        desc: "Red Ferrari SF90 Assetto Fiorano in Midtown",
+        dateTaken: "12-28-2022"
+    },
+
 ]
