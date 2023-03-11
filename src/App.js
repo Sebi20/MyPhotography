@@ -17,6 +17,11 @@ const Image = styled.img`
   width: 300px;
   height: auto;
   margin-bottom: 5px;
+  transition: 0.6s ease-out;
+
+  &:hover {
+    transform: scale(1.2);
+    }
 `
 
 function App() {

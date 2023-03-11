@@ -144,6 +144,4 @@ export const photos = [
         dateTaken: "09-25-2021"
     }
 
-    
-
 ]
