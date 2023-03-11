@@ -23,7 +23,7 @@ function App() {
   const images = photos.map(element=>{
     return (
       
-      <Image src={element.url}></Image>
+      <Image src={element.url} alt={element.desc}></Image>
       
     )
   })
